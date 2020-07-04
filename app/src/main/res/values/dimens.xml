@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--View -->
+    <dimen name="view_line">1dp</dimen>
+
+    <dimen name="view_1_dp">1dp</dimen>
+    <dimen name="view_10_dp">10dp</dimen>
+    <dimen name="view_15_dp">15dp</dimen>
+    <dimen name="view_20_dp">20dp</dimen>
+    <dimen name="view_24_dp">24dp</dimen>
+    <dimen name="view_32_dp">32dp</dimen>
+    <dimen name="view_40_dp">40dp</dimen>
+    <dimen name="view_56_dp">56dp</dimen>
+    <dimen name="view_75_dp">75dp</dimen>
+    <dimen name="view_80_dp">80dp</dimen>
+    <dimen name="view_100_dp">100dp</dimen>
+    <dimen name="view_110_dp">110dp</dimen>
+    <dimen name="view_115_dp">115dp</dimen>
+    <dimen name="view_120_dp">120dp</dimen>
+    <dimen name="view_140_dp">140dp</dimen>
+    <dimen name="view_170_dp">170dp</dimen>
+    <dimen name="view_180_dp">180dp</dimen>
+    <dimen name="view_200_dp">200dp</dimen>
+    <dimen name="view_300_dp">300dp</dimen>
+
+    <dimen name="radius">10dp</dimen>
+
+    <!-- Margin -->
+    <dimen name="margin_1_dp">1dp</dimen>
+    <dimen name="margin_2_dp">2dp</dimen>
+    <dimen name="margin_4_dp">4dp</dimen>
+    <dimen name="margin_8_dp">8dp</dimen>
+    <dimen name="margin_16_dp">16dp</dimen>
+    <dimen name="margin_32_dp">32dp</dimen>
+
+    <!-- Text -->
+    <dimen name="text_3_sp">8sp</dimen>
+    <dimen name="text_5_sp">8sp</dimen>
+    <dimen name="text_8_sp">8sp</dimen>
+    <dimen name="text_9_sp">9sp</dimen>
+    <dimen name="text_10_sp">10sp</dimen>
+    <dimen name="text_11_sp">11sp</dimen>
+    <dimen name="text_12_sp">12sp</dimen>
+    <dimen name="text_13_sp">13sp</dimen>
+    <dimen name="text_14_sp">14sp</dimen>
+    <dimen name="text_15_sp">15sp</dimen>
+    <dimen name="text_16_sp">16sp</dimen>
+    <dimen name="text_17_sp">17sp</dimen>
+    <dimen name="text_18_sp">18sp</dimen>
+    <dimen name="text_19_sp">19sp</dimen>
+    <dimen name="text_20_sp">20sp</dimen>
+    <dimen name="text_21_sp">21sp</dimen>
+    <dimen name="text_22_sp">22sp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="toolbar_image">24dp</dimen>
+    <dimen name="view_corner">4dp</dimen>
+    <dimen name="view_corner_32_dp">32dp</dimen>
+    <dimen name="button_height">48dp</dimen>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+
+    <dimen name="pagertabStrip_height">58dp</dimen>
+
+    <!--
+Refer to App Widget Documentation for margin information
+http://developer.android.com/guide/topics/appwidgets/index.html#CreatingLayout
+    -->
+    <dimen name="widget_margin">8dp</dimen>
+</resources>

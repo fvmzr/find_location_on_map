@@ -1,0 +1,38 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- RecyclerView -->
+    <style name="UtilRecyclerView"></style>
+
+    <style name="UtilRecyclerView.Padding" parent="UtilRecyclerView">
+        <item name="android:padding">@dimen/margin_2_dp</item>
+    </style>
+
+    <!-- TextView -->
+    <style name="UtilTextView"></style>
+
+    <style name="UtilTextView.Toolbar" parent="UtilTextView">
+        <item name="android:fontFamily">@font/sans_medium</item>
+        <item name="android:textSize">@dimen/text_14_sp</item>
+        <item name="android:textColor">@color/colorBlack</item>
+    </style>
+
+    <style name="UtilTextView.ListRecycler.Description" parent="UtilTextView">
+        <item name="android:fontFamily">@font/sans_bold</item>
+        <item name="android:textSize">@dimen/text_12_sp</item>
+        <item name="android:textColor">@color/colorSecondary</item>
+    </style>
+
+    <style name="TextViewDescription" parent="UtilTextView">
+        <item name="android:fontFamily">@font/sans_bold</item>
+        <item name="android:textSize">@dimen/text_13_sp</item>
+        <item name="android:textColor">@color/colorSecondary</item>
+    </style>
+
+</resources>

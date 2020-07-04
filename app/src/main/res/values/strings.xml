@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">FindPlacesOnTheMap</string>
+    <string name="toolbar_title">نزدیک‌ترین‌ها برای تست اندروید</string>
+
+    <string name="cafes">کافه</string>
+    <string name="restaurants">رستوران</string>
+    <string name="parks">پارک</string>
+    <string name="shopping_malls">مرکز حرید</string>
+    <string name="mosques">مسجد</string>
+    <string name="pharmacies">داروخانه</string>
+    <string name="hospitals">بیمارستان</string>
+    <string name="schools">مدرسه</string>
+    <string name="gyms">باشگاه</string>
+    <string name="bookstores">کتابفروشی</string>
+    <string name="flower_shops">گل فروشی</string>
+    <string name="libraries">کتابخانه</string>
+    <string name="hotels">هتل</string>
+    <string name="parkings">پارکینگ</string>
+    <string name="all">همه</string>
+    <string name="not_find">هیچ نتیجه‌ای یافت نشد</string>
+
+
+
+    <string name="mapBox_tocken">pk.eyJ1IjoiZm9yb29naDk5MiIsImEiOiJja2MzZTNpYmkwNHF4MnFxajc0cmZycG9kIn0.9XwUv7bL37s55lF2eQ2dgw</string>
+
+</resources>
